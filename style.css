@@ -94,7 +94,11 @@ https://developer.mozilla.org/ru/docs/Web/CSS/@media
   line-height: 7.814vw;
   font-size: 2vw;
   margin-bottom: 3.333vw;
-  
+}
+.music {
+ line-height: 7.814vw;
+  font-size: 7vw;
+  margin-bottom: 1.667vw;
 }
 
 
